@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 
-I'm a freshman data science student at **Boston University** with a passion for using match and code to solve complex problems and visualize data. I enjoy building applications and exploring different technologies, from frontend development to data analysis.
+I'm a freshman data science student at **Boston University** with a passion for using math and code to solve complex problems and visualize data. I enjoy building applications and exploring different technologies, from frontend development to data analysis.
 
 ---
 
