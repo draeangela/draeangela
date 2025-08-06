@@ -6,7 +6,7 @@ I'm a freshman data science student at **Boston University** with a passion for 
 
 ---
 
-### My Skills
+### 🎯 My Skills
 
 -   **Languages:** Python, JavaScript, Java, Dart, TypeScript
 -   **Frontend:** HTML, CSS, Angular, React
@@ -16,7 +16,7 @@ I'm a freshman data science student at **Boston University** with a passion for 
 
 ---
 
-### My Latest Projects
+### 🗂️ My Latest Projects
 
 Here are a few of my most recent projects.
 
@@ -56,7 +56,7 @@ Here are a few of my most recent projects.
 
 ---
 
-### Connect with Me
+### 📬 Connect with Me
 
 <a href="[Personal Website]" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/></a>
 <a href="mailto:draeangela@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
