@@ -46,7 +46,7 @@ Here are a few of my most recent projects.
 
     Methods and solutions can be found in the file Writeup.txt within the repository.
 * **Tech Stack:** Java
-* **Repository:** 
+* **Repository:** https://github.com/draeangela/chess-openings-analysis
 
 #### 5. Boggle Game Replica
 * **Description:** In collaboration with three classmates, I helped create a replica of the classic Boggle/Word Hunt game.
