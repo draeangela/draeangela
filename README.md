@@ -27,7 +27,7 @@ Here are a few of my most recent projects.
 * **Live Demo:** 
 
 #### 2. Digital Pantry Application
-* **Description:** As an intern at Filling in the Blanks Inc., I updated scripts for the compmany's food application and admin dashboard to improve design, add new features and plugins, and automate admin tasks (ex. emailing, data organization), and improve the overall functionality of the app. The app's purpose is to provide a service for students to order meal bags to be packed by the company and sent to their respective schools. It is available on both iOS and Android devices.
+* **Description:** As an intern at Filling in the Blanks Inc., I updated scripts for the company's food application and admin dashboard to improve design, add new features and plugins, and automate admin tasks (ex. emailing, data organization), and improve the overall functionality of the app. The app's purpose is to provide a service for students to order meal bags to be packed by the company and sent to their respective schools. It is available on both iOS and Android devices.
 * **Tech Stack:** Flutter, Dart, Firebase Cloud
 * **Repository:** https://github.com/ashton-reddy/fitb_pantry_app (Main application) https://github.com/draeangela/fitb_pantry_admin (Admin dashboard)
 
